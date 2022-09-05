@@ -21,6 +21,8 @@
   .texts{
 
     width: 100%;
+    margin-left: 50px;
+    margin-top: 50px;
   }
   .menu1{
     border-color: #fd8e8e;
