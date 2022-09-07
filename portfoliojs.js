@@ -1,4 +1,7 @@
-function scrollWin() {
-    window.scrollTo(0, 500);
-    }
+function scrolldiv() {
+    document.getElementById('secondhalf').scrollTop +=300;
+            
+
+}
+    
     
