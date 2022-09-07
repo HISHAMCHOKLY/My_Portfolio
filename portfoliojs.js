@@ -1,5 +1,5 @@
 function scrolldiv() {
-    document.getElementById('secondhalf').scrollTop +=300;
+    document.getElementById('secondhalf').scrollTop +=400;
             
 
 }
